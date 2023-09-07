@@ -69,6 +69,7 @@ for i in 0...((number.count) - 13) {
     let product = digits[i..<i + 13].reduce(1, *)
     maxProduct = max(maxProduct, product)
 }
+
 print(maxProduct)
 
 
