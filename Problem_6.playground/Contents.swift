@@ -1,8 +1,9 @@
-import UIKit
-
-var greeting = "Hello, playground"
+import Foundation
 
 /*
+ 
+ PROBLEM-6
+ 
  The sum of the squares of the first ten natural numbers is,
 
  The square of the sum of the first ten natural numbers is,
