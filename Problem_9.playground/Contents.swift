@@ -26,6 +26,7 @@ outerLoop: for a in 1..<1000 {
     }
 }
 
-// As you can see i wrote outerLoop before for loop. The reason is this solution writes the correct answer to the console 2 times.
+
+// As you can see i wrote outerLoop before the for loop. The reason is, this solution writes the correct answer to the console 2 times.
 // Because 3^2 + 4^2 = 5^2 and 4^2 + 3^2 = 5^2 the same.
 
